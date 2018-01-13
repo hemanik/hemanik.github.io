@@ -1,2 +1,0 @@
-# hemanik.github.io
-blog
