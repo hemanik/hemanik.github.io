@@ -1,7 +1,17 @@
-# Purser: Visibility into Cloud Native Applications
+---
+layout: post
+tags: purser
+date: 2018-05-25 
+thumbnail: https://user-images.githubusercontent.com/42761785/53145168-2f4e4980-35c5-11e9-867b-8d637671ec23.png
+title: Purser: Visibility into Cloud Native Applications
+published: true
+---
+
 *As posted on [blogs.vmware.com](https://blogs.vmware.com/opensource/2018/12/13/purser-open-source/) on December 13, 2018*
 
 Kubernetes clusters can be challenging to monitor. With applications decomposed into microservices and then deployed across many Kubernetes clusters –and pods within those clusters– it’s not a simple task to keep track of what’s happening, where. It’s this challenge that inspired Purser.
+
+<!--more-->
 
 ## About Purser
 A purser is the individual responsible for keeping track of all financial and logistical matters aboard ship. [Project Purser](https://github.com/vmware/purser), open sourced this week, enables users to act as the “purser” for their Kubernetes environment. Purser lets users easily monitor and draw insights into the Kubernetes infrastructure built atop any cloud platform for their cloud native applications.
