@@ -1,9 +1,9 @@
 ---
 layout: post
 tags: purser
-date: 2018-05-25 
+date: 2018-12-13
 thumbnail: https://user-images.githubusercontent.com/42761785/53145168-2f4e4980-35c5-11e9-867b-8d637671ec23.png
-title: Purser: Visibility into Cloud Native Applications
+title: "Purser: Visibility into Cloud Native Applications"
 published: true
 ---
 
