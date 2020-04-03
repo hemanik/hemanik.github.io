@@ -7,7 +7,7 @@ title: "An Update on Purser: The Kubernetes Tool That Saves You Serious Money"
 published: true
 ---
 
-*As posted on [blogs.vmware.com](https://blogs.vmware.com/opensource/2018/12/13/purser-open-source/) on August 13, 2019*
+*As posted on [blogs.vmware.com](https://blogs.vmware.com/opensource/2019/08/13/purser-kubernetes-tool-saves-money/) on August 13, 2019*
 
 Just over a year ago, VMware open-sourced Purser, [a Kubernetes extension](https://github.com/vmware/purser) that offers detailed cost insights into cloud native application workloads. In particular, Purser provides visibility into resource use for any specific Kubernetes cluster, including real-time reporting of the financial charges each application has incurred.
 
